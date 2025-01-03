@@ -1,0 +1,15 @@
+requests
+IProgress
+pydantic==2.9.1
+jupyter
+ipywidgets
+langchain_community
+langchain-text-splitters
+langchain-anthropic
+rank_bm25
+streamlit
+langchain-voyageai
+lancedb
+fastcore
+langchain-google-genai
+langchain-google-vertexai
